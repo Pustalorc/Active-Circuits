@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Manifest>
+	<identifier>ActiveCircuits</identifier>
+	<version>1.1.0</version>
+	<manifestUri>https://raw.githubusercontent.com/Pustalorc/ActiveCircuits/master/About/Manifest.xml</manifestUri>
+	<downloadUri>https://github.com/Pustalorc/ActiveCircuits/releases/latest</downloadUri>
+</Manifest>
